@@ -1,0 +1,10 @@
+c:\users\shinta\documents\visual studio 2012\Projects\percobaan1\percobaan1\bin\Debug\percobaan1.exe.config
+c:\users\shinta\documents\visual studio 2012\Projects\percobaan1\percobaan1\bin\Debug\percobaan1.exe
+c:\users\shinta\documents\visual studio 2012\Projects\percobaan1\percobaan1\bin\Debug\percobaan1.pdb
+c:\users\shinta\documents\visual studio 2012\Projects\percobaan1\percobaan1\bin\Debug\percobaan1.xml
+c:\users\shinta\documents\visual studio 2012\Projects\percobaan1\percobaan1\obj\Debug\percobaan1.Form1.resources
+c:\users\shinta\documents\visual studio 2012\Projects\percobaan1\percobaan1\obj\Debug\percobaan1.Resources.resources
+c:\users\shinta\documents\visual studio 2012\Projects\percobaan1\percobaan1\obj\Debug\percobaan1.vbproj.GenerateResource.Cache
+c:\users\shinta\documents\visual studio 2012\Projects\percobaan1\percobaan1\obj\Debug\percobaan1.exe
+c:\users\shinta\documents\visual studio 2012\Projects\percobaan1\percobaan1\obj\Debug\percobaan1.xml
+c:\users\shinta\documents\visual studio 2012\Projects\percobaan1\percobaan1\obj\Debug\percobaan1.pdb

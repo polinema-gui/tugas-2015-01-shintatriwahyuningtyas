@@ -1,0 +1,10 @@
+c:\users\shinta\documents\visual studio 2012\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\Shinta\documents\visual studio 2012\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+C:\Users\Shinta\documents\visual studio 2012\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.Resources.resources
+C:\Users\Shinta\documents\visual studio 2012\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.vbproj.GenerateResource.Cache
+C:\Users\Shinta\documents\visual studio 2012\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\Shinta\documents\visual studio 2012\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\Shinta\documents\visual studio 2012\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.xml
+C:\Users\Shinta\documents\visual studio 2012\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\Shinta\documents\visual studio 2012\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.xml
+C:\Users\Shinta\documents\visual studio 2012\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
